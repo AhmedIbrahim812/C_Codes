@@ -91,6 +91,17 @@ void ArrCopy(char *arr,char size,char* copy);
 
 
 
+int main ()
+{ 
+
+// You shall uncomment any function you want and test it in main 
+
+	return 0;
+}
+
+
+
+
 /*most repeated element in array and how many times
 typedef struct 
 {
@@ -917,12 +928,6 @@ if(counter<(size-1))
 
 
 
-int main ()
-{ 
 
-// You shall uncomment any function you want and test it in main 
-
-	return 0;
-}
 	
 	
